@@ -2,6 +2,10 @@
 
 [RailsAdmin](https://github.com/sferik/rails_admin) integration with [Pundit](https://github.com/elabs/pundit) authorization system
 
+## Note
+
+ This is a fork of [Sudosu's gem](https://github.com/sudosu/rails_admin_pundit). This fork adds support for Pundit version 2.3.0.
+
 ## Installation
 
 Add this line to your application's Gemfile:
